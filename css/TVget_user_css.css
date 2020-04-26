@@ -1,0 +1,24 @@
+
+@media(max-width:460px){
+  #tvget_mv_container_889 .tv_div_channel {
+    width: 100%;
+    height: 200px;
+  }
+  #tv_div_channel div.jspContainer {
+    width: 100%;
+    height: 150px;
+  }
+  #tvget_mv_container_889 .tv_div_channel {
+    width: 100%;
+   height: 200px;
+  }
+  #tvget_mv_container_889 .tv_ctrl_sidebar {
+    width: 100%;
+    min-width: 155px !important;
+    padding-right: 10px;
+  }
+  .tvget_mv_container_table tr:first-child{
+    display: grid;
+  }
+  #tv_prog_ROSSIA1_1582120800_1582059600, 
+  }

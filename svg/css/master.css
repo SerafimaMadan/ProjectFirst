@@ -1,0 +1,14 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+Project: Mayak
+-------------------------------------------------------------------*/
+/* Fonts */
+@import url("font-awesome.min.css");
+
+/* PLUGIN CSS */
+
+/* MAIN CSS */
+@import url("reset.css");
+@import url("fonts.css");
+@import url("bootstrap.min.css");
+@import url("template.min.css");
